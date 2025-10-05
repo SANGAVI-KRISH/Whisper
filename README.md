@@ -1,4 +1,5 @@
 **Whisper Speech-to-Text Project**
+
 This project demonstrates the use of [OpenAI's Whisper](https://github.com/openai/whisper) model to perform **speech-to-text** conversion. 
 It provides a step-by-step walkthrough to transcribe audio files into text using the pre-trained Whisper model.
 
